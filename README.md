@@ -1,3 +1,5 @@
+Hello, I'm CHristopher! Im a data scientist / data engineer who enjoys Machine learning and AI. Idealy I will be working on projects that use predictive modeling to solve problems, whether they are contributing to society like predicting if objects in the night sky are exoplanets or they are solving minor problems like identifying hackers in video games.
+
 ### Here is What I'm currently Working On!👋
 
 
